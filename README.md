@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tolulope05&label=Profile%20views&color=0e75b6&style=flat" alt="Tolulope" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Abelmesfin" target="blank"><img src="https://img.shields.io/twitter/follow/FakunleTolu?logo=twitter&style=for-the-badge" alt="FakunleTolu" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Abelmesfin" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="FakunleTolu" /></a> </p>
 
 - 🚀 Full-Stack Developer passionate about Django and Express.js.
 - 📚 Lifelong learner, always exploring new technologies.
@@ -79,7 +79,3 @@ Name | Badges
 
 <br/>
 
-<!---
-Abelmafi/Abelmafi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
