@@ -1,21 +1,21 @@
  ![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
-<h1 align="center">Tolulope Fakunle Github Profile</h1>
-<h3 align="center">Expert Flutter Developer</h3>
+<h1 align="center">Abel Mesifin Github Profile</h1>
+<h3 align="center">Expert Fulstack Developer</h3>
 <img align= "right" alt="CodingGuy" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tolulope05&label=Profile%20views&color=0e75b6&style=flat" alt="Tolulope" /> </p>
 
-<p align="left"> <a href="https://twitter.com/FakunleTolu" target="blank"><img src="https://img.shields.io/twitter/follow/FakunleTolu?logo=twitter&style=for-the-badge" alt="FakunleTolu" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Abelmesfin" target="blank"><img src="https://img.shields.io/twitter/follow/FakunleTolu?logo=twitter&style=for-the-badge" alt="FakunleTolu" /></a> </p>
 
-- 🔭 I’m working on **Projects with Flutter and NodeJS**
+- 🔭 I’m working on **Projects with Django and NodeJS**
 
-- 🌱 I’m also learning **Python Programming**
+- 🌱 I’m also learning **___ Programming**
 
 - 💬 You can ask me about **Flutter and NODEJS**
 
 - 📫 How to reach me **fakunletolulope05@gmail.com**
 
-- ⚡ Fun fact **I'm a graduate of ALX Software Engineering Cohort 5**
+- ⚡ Fun fact **I'm a graduate of ALX Software Engineering **
 
 - 🔭 I'm a member of **Google Developer Group, Benin City, Edo State**
  
@@ -44,46 +44,39 @@ Name | Badges
 ### 👔 Soft skills.
 
 ✅ Cross-platform development skills
-
 ✅ Creativity
-
 ✅ Good communication skills
-
 ✅ Problem-solving
-
 ✅ Teamwork
-
 ✅ Back-end computing
-
-✅ Professionalism 
 
 <hr>
 
 ## ❤ Views and Followers.
 
-<a href="https://github.com/Tolulope05/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Tolulope05">
+<a href="https://github.com/Abelmafi/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Abelmafi">
 </a>
-<a href="https://github.com/Tolulope05?tab=followers"><img src="https://img.shields.io/github/followers/Tolulope05?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Abelmafi?tab=followers"><img src="https://img.shields.io/github/followers/Abelmafi?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
  <br>
  
  
  ## Stats.
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolulope05&layout=compact&theme=dark&hide_border=false" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tolulope05&show_icons=true&locale=en&theme=onedark" alt="Tolulope05" /></p>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abelmafi&layout=compact&theme=dark&hide_border=false" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abelmafi&show_icons=true&locale=en&theme=onedark" alt="Tolulope05" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tolulope05&theme=dark" alt="Tolulope05" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abelmafi&theme=dark" alt="Abelmafi" /></p>
 <br/>
  <b>Note:</b> The top languages shown here is just a measure of what I have posted here on GitHub and not my actual skill level, Thank you.
 
 
-<!-- > <a href="https://github.com/Tolulope05/github-readme-activity-graph"><img alt="Tolulope Fakunle' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Tolulope05&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+<!-- > <a href="https://github.com/Abelmafi/github-readme-activity-graph"><img alt="Abel Mesifin' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Abelmafi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <br/>
 
 <!---
-Tolulope05/Tolulope05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Abelmafi/Abelmafi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
