@@ -46,9 +46,13 @@ Name | Badges
 ✅ Cross-platform development skills
 
 ✅ Creativity
+
 ✅ Good communication skills
+
 ✅ Problem-solving
+
 ✅ Teamwork
+
 ✅ Back-end computing
 
 <hr>
