@@ -44,6 +44,7 @@ Name | Badges
 ### 👔 Soft skills.
 
 ✅ Cross-platform development skills
+
 ✅ Creativity
 ✅ Good communication skills
 ✅ Problem-solving
